@@ -1,0 +1,19 @@
+{
+  "id": 4211,
+  "category": {
+    "id": 0,
+    "name": "cat"
+  },
+  "name": "Garfield",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "adoption"
+    }
+  ],
+  "status": "available"
+}
+
