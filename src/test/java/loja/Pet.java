@@ -11,7 +11,7 @@ import static org.hamcrest.Matchers.contains;
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.core.StringContains.containsString;
 
-public class Servico {
+public class Pet {
 
     public String tokenGeral; // variavel para receber o token
 
